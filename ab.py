@@ -1,3 +1,3 @@
 n=int(input())
-c=n//2
-print(c)
+v=n//2
+print(v)
